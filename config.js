@@ -67,7 +67,7 @@ global.ppulsa2 = 'PC OWNER' // kalau ada kartu lain isi aja
 global.psaweria = 'PC OWNER'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
+global.nomorbot ='6282334703987'
 global.nomorown = '6285730794089'
 global.namebot = 'GilzzBotz'
 global.nameown = 'Gilzz'
